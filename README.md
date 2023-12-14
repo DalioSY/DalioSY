@@ -8,8 +8,8 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
 <br>
  Contatos:
 <p>
-  <a href="https://www.linkedin.com/in/dalio-shindi-yamada-475a7b253/ ">
-    <img align="left" alt="Linkedin" widt=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
+  <a href="https://www.linkedin.com/in/dalio-shindi-yamada" />
+    <img align="left" alt="Linkedin" width=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
 
    
   </a>
