@@ -10,6 +10,7 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
 <p>
   <a href="https://www.linkedin.com/in/dalio-shindi-yamada-475a7b253/ ">
     <img align="left" alt="Linkedin" widt=!22px"https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
+    <img src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
     
   </a>
 </p> 
