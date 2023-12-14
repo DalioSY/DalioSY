@@ -15,6 +15,7 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
   </a>
 </p> 
 <br>
+
 [![Dalio stats](https://github-readme-stats.vercel.app/api?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
