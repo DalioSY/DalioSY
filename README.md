@@ -8,13 +8,13 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
 <br>
  Contatos:
 <p>
-  <a href="https://www.linkedin.com/in/dalio-shindi-yamada" />
+  <a href="https://www.linkedin.com/in/dalio-shindi-yamada/ />
     <img align="left" alt="Linkedin" width=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
 
    
   </a>
 </p> 
-
+<br>
 [![Dalio stats](https://github-readme-stats.vercel.app/api?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
