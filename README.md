@@ -13,7 +13,7 @@
  </div>
  <h2>Contatos: </h2>
  <div display:"inline_block">
-  <a href="https://www.linkedin.com/in/dalio-shindi-yamada/" />
+  <a href="https://www.linkedin.com/in/dalio-s-yamada/" />
     <img align="left" alt="Linkedin" width=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
   </a>
   </div>
