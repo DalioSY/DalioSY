@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/dalio-shindi-yamada/" />
     <img align="left" alt="Linkedin" width=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
   </a>
-
+<br>
 <h2>GitHub Stats: </h2>
 
 [![Dalio stats](https://github-readme-stats.vercel.app/api?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
