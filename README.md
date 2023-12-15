@@ -6,12 +6,12 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
 <br>
+
+<br>
  Contatos:
 <p>
   <a href="https://www.linkedin.com/in/dalio-shindi-yamada/" />
     <img align="left" alt="Linkedin" width=22px src="https://github.com/DalioSY/teste/blob/master/assets/Linkedin-icon.png" />
-
-   
   </a>
 </p> 
 <br>
