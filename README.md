@@ -8,13 +8,13 @@
 </div>
 <h2>Ferramentas: </h2>
 <div display:"inline_block">
- <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white " alt="visual-logo" />
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " alt="git-logo" />
+ <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-logo" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git-logo" />
  </div>
  <h2>Contatos: </h2>
  <div display:"inline_block">
   <a href="https://www.linkedin.com/in/dalio-s-yamada/" />
-  <img align="left" alt="Linkedin" width=22px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   </div>
 <br>
