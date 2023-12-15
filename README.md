@@ -16,6 +16,7 @@ Eu sou Dalio S. Yamada, sou programador Front End, atualmente estou aprendendo e
   </a>
 </p> 
 <br>
+<h1>GitHub Stats: </h1>
 
 [![Dalio stats](https://github-readme-stats.vercel.app/api?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
 
