@@ -1,4 +1,4 @@
-<img width=100vw src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
 <h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
 
