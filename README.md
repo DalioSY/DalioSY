@@ -1,10 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
+<img width=100vw src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
 <h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
 
-<img align="right" width="250px" src="https://storyset.com/illustration/programming/rafiki#1B3FAEFF&hide=&hide=complete" />
-
-
+<img align="right" width="250px" src="https://github.com/DalioSY/teste/blob/master/assets/img.png" />
 
 <h2>Quem sou eu?</h2>
 <p>
@@ -23,17 +21,18 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Profissional com experiência em:</h2></summary>
+    <h2 style="display: inline-block">Profissional com experiência em:</h2>
   </ul>
 </div>
 
-<p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14"/>
+</div>
+
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Entre em contato:</h2></summary>
+    <h2 style="display: inline-block">Entre em contato:</h2>
   </ul>
 </div>
 
@@ -44,13 +43,26 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Projetos:</h2></summary>
+    <h2 style="display: inline-block">Projetos:</h2>
   </ul>
 </div>
 
+<div align="center"> 
+  <a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/randon"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/cronometro"><img src="https://github.com/DalioSY/cronometro/blob/master/assets/web-cronometro.png" width="250px"></a>
+  <a  href="https://daliosy.github.io/jokenpo/"><img src="https://github.com/DalioSY/jokenpo/blob/master/assets/img-jokenpo.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/hashira"><img src="https://github.com/DalioSY/hashira/blob/master/assets/img-web.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/mario"><img src="https://github.com/DalioSY/mario/blob/master/assets/mario-web.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/starbucks"><img src="https://github.com/DalioSY/starbucks/blob/master/assets/starbucks-web.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
+</div>
+
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">GitHub Stats: </h2></summary>
+    <h2 style="display: inline-block">GitHub Stats: </h2>
   </ul>
 </div>
  
