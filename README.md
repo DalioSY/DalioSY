@@ -1,26 +1,62 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
-<h1>:pencil: Olá sou Dalio S. Yamada </h1> 
-<p> Sou programador Front End, atualmente estou aprendendo e criando projetos com: </p>
-<div display:"inline_block">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" />
-</div>
-<h2>Ferramentas: </h2>
-<div display:"inline_block">
- <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-logo" />
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git-logo" />
- </div>
- <h2>Contatos: </h2>
- <div display:"inline_block">
-  <a href="https://www.linkedin.com/in/dalio-s-yamada/" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  </div>
+<h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
+
+<img align="right" width="250px" src="https://storyset.com/illustration/programming/rafiki#1B3FAEFF&hide=&hide=complete" />
+
+
+
+<h2>Quem sou eu?</h2>
+<p>
+Olá, meu nome é Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
+
+No Front-End, possui experiência em React.JS, JavaScript, HTML e CSS, abrangendo conhecimentos com Styled-Components, Componentes reutilizáveis, React, integração e consumo de API’s e API rest e criação de interfaces de usuário responsivas.
+
+No Back-End, possui experiência em Node.js, banco de dados relacional (PostgreSQL), Docker e Docker-compose. 
+
+Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers, tanto quanto para dispor de iniciativa com o intuito de promover resolução de problemas e comunicação assertiva.
+
+Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto com desenvolvedores e designers, além de demonstrar iniciativa na resolução de problemas.
+</p>
+
 <br>
-<h2>GitHub Stats: </h2>
-<div display:"inline_block">
- 
-[![Dalio stats](https://github-readme-stats.vercel.app/api?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Profissional com experiência em:</h2></summary>
+  </ul>
 </div>
+
+<p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14" />
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Entre em contato:</h2></summary>
+  </ul>
+</div>
+
+<div align="center"> 
+  <a href="mailto:dalioyamada6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikaeli-pereira/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Projetos:</h2></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Stats: </h2></summary>
+  </ul>
+</div>
+ 
+ <div align="center">
+ <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=DalioSY&theme=github_dark&show_icons=true"/>
+ <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY&layout=compact&langs_count=16&theme=github_dark"/>
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=footer"/>
