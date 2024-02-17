@@ -54,7 +54,7 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
   <a  href="https://daliosy.github.io/jokenpo/"><img src="https://github.com/DalioSY/jokenpo/blob/master/assets/img-jokenpo.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/hashira"><img src="https://github.com/DalioSY/hashira/blob/master/assets/img-web.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/mario"><img src="https://github.com/DalioSY/mario/blob/master/assets/mario-web.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/starbucks"><img src="https://github.com/DalioSY/starbucks/blob/master/assets/starbucks-web.png" width="250px"></a>
+  <a  href="https://github.com/DalioSY/clima-tempo"><img src="https://github.com/DalioSY/clima-tempo/blob/master/assets/img/web-img.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
 </div>
