@@ -2,7 +2,7 @@
 
 <h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
 
-<img align="right" width="250px" src="https://github.com/DalioSY/teste/blob/master/assets/img.png" />
+<img align="right" width="250px" pointer-events:none src="https://github.com/DalioSY/teste/blob/master/assets/img.png" />
 
 <h2>Quem sou eu?</h2>
 <p>
@@ -26,7 +26,7 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14"/>
+<img pointer-events:none src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14"/>
 </div>
 
 
