@@ -7,13 +7,17 @@
 <h2>Quem sou eu?</h2>
 <p>
 Olá, eu me chamo Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
-
+</p>
+<p>
 No Front-End, possui experiência em React.JS, JavaScript, HTML e CSS, abrangendo conhecimentos com Styled-Components, Componentes reutilizáveis, React, integração e consumo de API’s e API rest e criação de interfaces de usuário responsivas.
-
+</p>
+<p>
 No Back-End, possui experiência em Node.js, PostgreSQL, MongoDB e Docker.
-
+</p>
+<p>
 Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers, tanto quanto para dispor de iniciativa com o intuito de promover resolução de problemas e comunicação assertiva.
-
+</p>
+<p>
 Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto com desenvolvedores e designers, além de demonstrar iniciativa na resolução de problemas.
 </p>
 
@@ -25,9 +29,14 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
   </ul>
 </div>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,express,sequelize,postgresql,mongodb,docker,figma,github,vscode&perline=14"/>
-</div>
+<h3>Front-End: </h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui"/>
+
+<h3>Back-End: </h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres"/>
+
+<h3>Ferramentas e plataformas:</h3>
+<img src="https://skillicons.dev/icons?i=git,figma,github,vscode"/>
 
 
 <div id="user-content-toc">
@@ -48,6 +57,8 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 </div>
 
 <div align="center"> 
+  <a href="https://github.com/DalioSY/back-end-codeburguer"><img src="https://github.com/DalioSY/back-end-codeburguer/blob/main/src/img/git-1.png" width="250px"></a>
+  <a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/main/img/cake-1.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/random"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/cronometro"><img src="https://github.com/DalioSY/cronometro/blob/master/assets/web-cronometro.png" width="250px"></a>
