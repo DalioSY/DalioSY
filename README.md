@@ -57,7 +57,7 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 </div>
 
 <div align="center"> 
-  <a href="https://github.com/DalioSY/back-end-codeburguer"><img src="https://github.com/DalioSY/back-end-codeburguer/blob/master/src/img/git-1.png" width="250px"></a>
+  <a href="https://github.com/DalioSY/back-end-codeburger"><img src="https://github.com/DalioSY/back-end-codeburguer/blob/master/src/img/git-1.png" width="250px"></a>
   <a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/master/img/cake-1.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/random"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
