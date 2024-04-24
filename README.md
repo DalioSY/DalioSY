@@ -5,20 +5,10 @@
 <img align="right" width="250px" src="https://github.com/DalioSY/dalio-assets/blob/master/img/dev.png" />
 
 <h2>Quem sou eu?</h2>
-<p>
-Olá, eu me chamo Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
+<p>Olá, eu me chamo Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
 </p>
-<p>
-No Front-End, possui experiência em React.JS, JavaScript, HTML e CSS, abrangendo conhecimentos com Styled-Components, Componentes reutilizáveis, React, integração e consumo de API’s e API rest e criação de interfaces de usuário responsivas.
-</p>
-<p>
-No Back-End, possui experiência em Node.js, PostgreSQL, MongoDB e Docker.
-</p>
-<p>
-Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers, tanto quanto para dispor de iniciativa com o intuito de promover resolução de problemas e comunicação assertiva.
-</p>
-<p>
-Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto com desenvolvedores e designers, além de demonstrar iniciativa na resolução de problemas.
+<p> 
+Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, Styled-components, Sequelize, PostgreSQL, MongoDB e Docker. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
 </p>
 
 <br>
@@ -37,7 +27,6 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
 
 <h3>Ferramentas e plataformas:</h3>
 <img src="https://skillicons.dev/icons?i=git,figma,github,vscode"/>
-
 
 <div id="user-content-toc">
   <ul align="center">
@@ -70,7 +59,6 @@ Tenho habilidade para colaborar efetivamente em equipe, trabalhando em conjunto 
   <a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
   <a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
 </div>
-
 
 <div id="user-content-toc">
   <ul align="center">
