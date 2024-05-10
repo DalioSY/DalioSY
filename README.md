@@ -46,6 +46,9 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 </div>
 
 <div align="center"> 
+  <a href="https://github.com/DalioSY/codeffvii"><img src="https://github.com/DalioSY/codeffvii/blob/master/img/git-1.png" width="250px"></a>
+  <a href="https://github.com/DalioSY/front-end-devbills"><img src="https://github.com/DalioSY/front-end-devbills/blob/master/img/git-1.png" width="250px"></a>
+  <a href="https://github.com/DalioSY/back-end-codebills"><img src="https://github.com/DalioSY/back-end-codebills/blob/master/img/git-6.png" width="250px"></a>
   <a href="https://github.com/DalioSY/front-end-codeburger"><img src="https://github.com/DalioSY/front-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
   <a href="https://github.com/DalioSY/back-end-codeburger"><img src="https://github.com/DalioSY/back-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
   <a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/master/img/cake-1.png" width="250px"></a>
