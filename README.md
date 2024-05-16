@@ -35,8 +35,9 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 </div>
 
 <div align="center"> 
-  <a href="mailto:dalioyamada6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank">dalioyamada@gamil.com</a>
-  <a href="https://www.linkedin.com/in/dalio-s-yamada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin">https://www.linkedin.com/in/dalio-s-yamada/</a> 
+<a href="mailto:dalioyamada@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank">Enviar email para Dalio Yamada</a>
+<a href="https://www.linkedin.com/in/dalio-s-yamada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin">https://www.linkedin.com/in/dalio-s-yamada/</a>
+
 </div>
 
 <div id="user-content-toc">
