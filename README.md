@@ -46,22 +46,25 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
   </ul>
 </div>
 
-<div align="center"> 
-  <a href="https://github.com/DalioSY/codeffvii"><img src="https://github.com/DalioSY/codeffvii/blob/master/img/git-1.png" width="250px"></a>
-  <a href="https://github.com/DalioSY/front-end-devbills"><img src="https://github.com/DalioSY/front-end-devbills/blob/master/img/git-1.png" width="250px"></a>
-  <a href="https://github.com/DalioSY/back-end-codebills"><img src="https://github.com/DalioSY/back-end-codebills/blob/master/img/git-6.png" width="250px"></a>
-  <a href="https://github.com/DalioSY/front-end-codeburger"><img src="https://github.com/DalioSY/front-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
-  <a href="https://github.com/DalioSY/back-end-codeburger"><img src="https://github.com/DalioSY/back-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
-  <a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/master/img/cake-1.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/random"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/cronometro"><img src="https://github.com/DalioSY/cronometro/blob/master/assets/web-cronometro.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/burger"><img src="https://github.com/DalioSY/burger/blob/master/assets/web-burger.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/hashira"><img src="https://github.com/DalioSY/hashira/blob/master/assets/img-web.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/mario"><img src="https://github.com/DalioSY/mario/blob/master/assets/mario-web.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/clima-tempo"><img src="https://github.com/DalioSY/clima-tempo/blob/master/assets/img/web-img.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
-  <a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
+<div align="center">
+<a href="https://github.com/DalioSY/car-batman"><img src="https://github.com/DalioSY/car-batman/blob/master/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/pizzaria"><img src="https://github.com/DalioSY/pizzaria/blob/master/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/codeffvii"><img src="https://github.com/DalioSY/codeffvii/blob/master/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/front-end-devbills"><img src="https://github.com/DalioSY/front-end-devbills/blob/master/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/back-end-codebills"><img src="https://github.com/DalioSY/back-end-codebills/blob/master/img/git-6.png" width="250px"></a>
+<a href="https://github.com/DalioSY/front-end-codeburger"><img src="https://github.com/DalioSY/front-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/back-end-codeburger"><img src="https://github.com/DalioSY/back-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
+<a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/master/img/cake-1.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/random"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/cronometro"><img src="https://github.com/DalioSY/cronometro/blob/master/assets/web-cronometro.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/burger"><img src="https://github.com/DalioSY/burger/blob/master/assets/web-burger.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/hashira"><img src="https://github.com/DalioSY/hashira/blob/master/assets/img-web.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/mario"><img src="https://github.com/DalioSY/mario/blob/master/assets/mario-web.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/clima-tempo"><img src="https://github.com/DalioSY/clima-tempo/blob/master/assets/img/web-img.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
+<a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
+
 </div>
 
 <div id="user-content-toc">
