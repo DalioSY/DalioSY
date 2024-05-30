@@ -28,8 +28,8 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
   </ul>
 </div>
 <div align="center"> 
-<img src="https://github.com/DalioSY/dalio-assets/blob/master/img/certificadoDevclubFullStack-Dalio-0.jpg" width="250px">
-<img src="https://github.com/DalioSY/dalio-assets/blob/master/img/certificadoDevclubFullStack-Dalio-1.jpg" width="250px">
+<img src="assets/img/certificadoDevclubFullStack-Dalio-0.jpg" width="250px">
+<img src="assets/img/certificadoDevclubFullStack-Dalio-1.jpg" width="250px">
 </div>
 
 <div id="user-content-toc">
