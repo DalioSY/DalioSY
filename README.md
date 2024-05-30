@@ -1,16 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
 <h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
-
 <img align="right" width="250px" src="https://github.com/DalioSY/dalio-assets/blob/master/img/dev.png" />
-
 <h2>Quem sou eu?</h2>
 <p>Olá, eu me chamo Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
 </p>
 <p> 
-Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, Styled-components, Sequelize, PostgreSQL, MongoDB e Docker. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
+Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Styled-components, Sequelize, PostgreSQL, MongoDB e Docker. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
 </p>
-
 <br>
 
 <div id="user-content-toc">
@@ -18,26 +15,31 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
     <h2 style="display: inline-block">Profissional com experiência em:</h2>
   </ul>
 </div>
-
 <h3>Front-End: </h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui"/>
-
 <h3>Back-End: </h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres"/>
-
 <h3>Ferramentas e plataformas:</h3>
 <img src="https://skillicons.dev/icons?i=git,figma,github,vscode"/>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">CERTIFICADO:</h2>
+  </ul>
+</div>
+<div align="center"> 
+<img src="https://github.com/DalioSY/dalio-assets/blob/master/img/certificadoDevclubFullStack-Dalio-0.jpg" width="250px">
+<img src="https://github.com/DalioSY/dalio-assets/blob/master/img/certificadoDevclubFullStack-Dalio-1.jpg" width="250px">
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
     <h2 style="display: inline-block">Entre em contato:</h2>
   </ul>
 </div>
-
 <div align="center"> 
 <a href="mailto:dalioyamada@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank">Enviar email para Dalio Yamada</a>
 <a href="https://www.linkedin.com/in/dalio-s-yamada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin">https://www.linkedin.com/in/dalio-s-yamada/</a>
-
 </div>
 
 <div id="user-content-toc">
@@ -45,8 +47,8 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
     <h2 style="display: inline-block">Projetos:</h2>
   </ul>
 </div>
-
 <div align="center">
+<a href="https://github.com/DalioSY/jokenpo"><img src="https://github.com/DalioSY/jokenpo/blob/master/img/git-1.png" width="250px"></a>
 <a href="https://github.com/DalioSY/car-batman"><img src="https://github.com/DalioSY/car-batman/blob/master/img/git-1.png" width="250px"></a>
 <a href="https://github.com/DalioSY/pizzaria"><img src="https://github.com/DalioSY/pizzaria/blob/master/img/git-1.png" width="250px"></a>
 <a href="https://github.com/DalioSY/codeffvii"><img src="https://github.com/DalioSY/codeffvii/blob/master/img/git-1.png" width="250px"></a>
@@ -64,7 +66,6 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 <a  href="https://github.com/DalioSY/clima-tempo"><img src="https://github.com/DalioSY/clima-tempo/blob/master/assets/img/web-img.png" width="250px"></a>
 <a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
 <a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
-
 </div>
 
 <div id="user-content-toc">
@@ -72,7 +73,6 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
     <h2 style="display: inline-block">GitHub Stats: </h2>
   </ul>
 </div>
- 
  <div align="center">
  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=DalioSY&theme=github_dark&show_icons=true"/>
  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY&layout=compact&langs_count=16&theme=github_dark"/>
