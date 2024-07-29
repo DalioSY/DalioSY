@@ -1,81 +1,74 @@
+<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
-<h1 align="center">BEM-VINDOS AO MEU GITHUB!</h1>
-<img align="right" width="250px" src="https://github.com/DalioSY/dalio-assets/blob/master/img/dev.png" />
-<h2>Quem sou eu?</h2>
-<p>Olá, eu me chamo Dalio Shindi Yamada, tenho 38 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
-</p>
-<p> 
-Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Styled-components, Sequelize, PostgreSQL, MongoDB e Docker. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
-</p>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Dalio+Shindi+Yamada;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Profissional com experiência em:</h2>
-  </ul>
 </div>
-<h3>Front-End: </h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui"/>
-<h3>Back-End: </h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres"/>
-<h3>Ferramentas e plataformas:</h3>
-<img src="https://skillicons.dev/icons?i=git,figma,github,vscode"/>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">CERTIFICADO:</h2>
-  </ul>
+<div align="center">
+
+# Quem sou eu?
+
 </div>
-<div align="center"> 
+
+Olá, eu me chamo **Dalio Shindi Yamada**, tenho 39 anos, formado em desenvolvimento de sistemas e sou uma profissional com experiência em tanto no Front-End quanto no Back-end.
+
+Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web e mobile, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Next.js, Styled-components, Tailwind CSS, PostgreSQL, MongoDB, Docker, Prisma, Thunder Client e Sequelize. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
+
+> Estou sempre buscando conhecimento para melhorar minhas habilidades técnicas e soft skills
+
+> Meu objetivo é trabalhar como Desenvolvedor Web e conseguir minha primeira oportunidade na área
+
+> Formado em desenvolvedor de sistemas pela <a href="https://www.rodolfomori.com.br">DevClub</a>.
+
+<div align="center">
+
+# Profissional com experiência em:
+
+## Front End:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react,styledcomponents,materialui,nextjs,tailwind,"/>
+
+Native
+
+## Back End:
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres,prisma"/>
+
+## Ferramentas e plataformas:
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,vercel,notion,obsidian"/>
+</div>
+
+<div align="center">
+
+# Certificado:
+
 <img src="assets/img/certificadoDevclubFullStack-Dalio-0.jpg" width="250px">
 <img src="assets/img/certificadoDevclubFullStack-Dalio-1.jpg" width="250px">
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Entre em contato:</h2>
-  </ul>
-</div>
-<div align="center"> 
-<a href="mailto:dalioyamada@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank">Enviar email para Dalio Yamada</a>
-<a href="https://www.linkedin.com/in/dalio-s-yamada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin">https://www.linkedin.com/in/dalio-s-yamada/</a>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Projetos:</h2>
-  </ul>
-</div>
 <div align="center">
-<a href="https://github.com/DalioSY/jokenpo"><img src="https://github.com/DalioSY/jokenpo/blob/master/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/car-batman"><img src="https://github.com/DalioSY/car-batman/blob/master/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/pizzaria"><img src="https://github.com/DalioSY/pizzaria/blob/master/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/codeffvii"><img src="https://github.com/DalioSY/codeffvii/blob/master/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/front-end-devbills"><img src="https://github.com/DalioSY/front-end-devbills/blob/master/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/back-end-codebills"><img src="https://github.com/DalioSY/back-end-codebills/blob/master/img/git-6.png" width="250px"></a>
-<a href="https://github.com/DalioSY/front-end-codeburger"><img src="https://github.com/DalioSY/front-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/back-end-codeburger"><img src="https://github.com/DalioSY/back-end-codeburger/blob/master/src/img/git-1.png" width="250px"></a>
-<a href="https://github.com/DalioSY/cake-house"><img src="https://github.com/DalioSY/cake-house/blob/master/img/cake-1.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/convert-money"><img src="https://github.com/DalioSY/convert-money/blob/main/assets/web-convert.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/random"><img src="https://github.com/DalioSY/random/blob/master/assets/web-randon.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/cronometro"><img src="https://github.com/DalioSY/cronometro/blob/master/assets/web-cronometro.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/burger"><img src="https://github.com/DalioSY/burger/blob/master/assets/web-burger.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/hashira"><img src="https://github.com/DalioSY/hashira/blob/master/assets/img-web.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/mario"><img src="https://github.com/DalioSY/mario/blob/master/assets/mario-web.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/clima-tempo"><img src="https://github.com/DalioSY/clima-tempo/blob/master/assets/img/web-img.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/node-js"><img src="https://github.com/DalioSY/node-js/blob/main/assets/img-web.png" width="250px"></a>
-<a  href="https://github.com/DalioSY/react-1"><img src="https://github.com/DalioSY/react-1/blob/master/src/assets/img-web.png" width="250px"></a>
-</div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">GitHub Stats: </h2>
-  </ul>
-</div>
+# GitHub Stats:
+
  <div align="center">
  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=DalioSY&theme=github_dark&show_icons=true"/>
  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY&layout=compact&langs_count=16&theme=github_dark"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DalioSY&theme=dark&border_radius=3&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
  </div>
+
+<div align="center" >
+
+# Entre em contato:
+
+<a href="mailto:dalioyamada@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/dalio-s-yamada/"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
+
+> <a href="https://daliosy.github.io/my-PORTFOLIO/">My Portfólio</a>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=footer"/>
