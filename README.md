@@ -11,7 +11,7 @@
 
 </div>
 
-Olá, eu me chamo **Dalio Shindi Yamada**, tenho 39 anos, formado em desenvolvimento de sistemas e sou uma profissional com experiência em tanto no Front-End quanto no Back-end.
+Olá, sou **Dalio Shindi Yamada**, tenho 39 anos, sou um **Desenvolvedor Full Stack**.
 
 Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web e mobile, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Next.js, Styled-components, Tailwind CSS, PostgreSQL, MongoDB, Docker, Prisma, Thunder Client e Sequelize. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
 
@@ -25,17 +25,17 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 
 # Profissional com experiência em:
 
-## Front End:
+### Front End:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react,styledcomponents,materialui,nextjs,tailwind,"/>
 
 Native
 
-## Back End:
+### Back End:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres,prisma"/>
 
-## Ferramentas e plataformas:
+### Ferramentas e plataformas:
 
 <img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,vercel,notion,obsidian"/>
 </div>
