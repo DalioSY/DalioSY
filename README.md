@@ -1,84 +1,109 @@
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&wsection=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Ol%C3%A1%2C+sou+Dalio+Shindi+Yamada;Desenvolvo+interfaces+que+conectam+ideias
-)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
-
-# Quem sou eu?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Dalio+Shindi+Yamada;💻+Desenvolvedor+Full+Stack;✨+Criando+interfaces+modernas;🚀+performáticas+e+responsivas;⚡+Transformando+ideias+em;💻+soluções+digitais+reais)](https://git.io/typing-svg)
 
 </div>
 
-Olá, sou **Dalio Shindi Yamada**, sou um **Desenvolvedor Front-End**.
+# Sobre mim
 
-Atualmente atuo como Desenvolvedor Front-End na CUBEVIS, onde sou responsável pela criação de landing pages e formulários de cadastro de produtos e usuários, integrados a uma API desenvolvida em Go (Golang) e conectada a um banco de dados na AWS. Os dados são organizados e listados em uma tabela funcional, garantindo uma visualização clara e dinâmica das informações.
+Olá, sou **Dalio Shindi Yamada** 👋
 
-Sou um profissional proativo, organizado e em constante evolução, com sólida experiência em projetos pessoais e profissionais usando tecnologias como:
+Sou um **Desenvolvedor Full Stack** de soluções digitais. Trabalho criando sistemas, sites e aplicativos utilizando tecnologias como **JavaScript, TypeScript, PHP, React.js, Next.js e Node.js**.
 
-- Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, React Native, Styled-components, Tailwind CSS
-- Back-end: Node.js, Go (Golang), Express, Prisma, Sequelize
-- Banco de dados: PostgreSQL, MongoDB, AWS
-- Ferramentas e DevOps: Docker, Postman
+Minha entrada no mercado de tecnologia aconteceu em **setembro de 2024**, atuando em projetos da **Guapi Papéis**. 
+Me trouxe muita experiência e aprendizado não apenas profissionalmente, mas também como pessoa.
 
-> Estou em constante evolução, buscando aprimorar tanto minhas habilidades técnicas quanto comportamentais.
+Essa trajetória me ajudou a desenvolver visão de negócio, responsabilidade, comunicação e relacionamento com pessoas. Aprendi muito com todos que passaram pelo meu caminho e continuo evoluindo constantemente através dos estudos e da prática no desenvolvimento de software.
 
-> Meu propósito é entregando soluções que façam a diferença e agreguem valor real aos projetos.
+Atualmente participo do desenvolvimento de aplicações web e mobile utilizando tecnologias modernas como **Next.js, React.js, Expo, Laravel, PostgreSQL e Firebase**.
 
-> Formado em **Desenvolvimento de Sistemas** pelo curso da <a href="https://www.rodolfomori.com.br" target="_blank">DevClub</a>
+Tenho experiência no desenvolvimento de:
 
-> Atuo atualmente como **Desenvolvedor Front-End** na <a href="https://www.cubevis.com.br/" target="_blank">CUBEVIS</a>
+- 🚀 Landing pages modernas
+- 🖥️ Sistemas administrativos
+- 👥 Cadastro de usuários e produtos
+- 🔗 Integrações CRUD
+- 🌐 APIs REST
+- 📱 Aplicações responsivas
+- 💻 Plataformas web
+- 📲 Aplicativos mobile
+
+Essas experiências fortaleceram habilidades como:
+
+✔️ Resolução de problemas  
+✔️ Organização  
+✔️ Pensamento lógico  
+✔️ Trabalho em equipe  
+✔️ Comunicação  
+✔️ Persistência  
+✔️ Adaptabilidade  
+✔️ Proatividade  
+
+> 💡 Sempre buscando evoluir como desenvolvedor e como pessoa, criando soluções que realmente façam diferença.
+<br/>
+
+# Tecnologias e Ferramentas
+
+### Linguagens de Programação
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php"/>
+
+### Frameworks e Bibliotecas
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,styledcomponents,materialui,prisma,sequelize"/>
+
+### Banco de Dados e Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws"/>
+
+### Ferramentas, DevOps e Plataformas
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma"/>
+
+### Editores de Código
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/antigravity-color.png"height="48px" alt="Antigravity"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/cursor.webp" height="48px" alt="Cursor"/>
+
+### Inteligência Artificial no Desenvolvimento
+
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/githubcopilot.webp" height="48px" alt="GitHub Copilot"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" height="48px" alt="OpenAI Codex"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" height="48px" alt="Google Gemini"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" height="48px" alt="Claude"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/windsurf.webp" height="48px" alt="Windsurf"/>
+
+<br/>
+
+# Certificados
 
 <div align="center">
-
-# Profissional com experiência em:
-
-### Front End:
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react,styledcomponents,materialui,nextjs,tailwind,"/>
-
-Native
-
-### Back End:
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres,prisma,aws,postman"/>
-
-### Ferramentas e plataformas:
-
-<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,vercel,notion,obsidian"/>
-</div>
-
-<div align="center">
-
-# Certificado:
-
 <img src="assets/img/certificadoDevclubFullStack-Dalio-0.jpg" width="250px">
 <img src="assets/img/certificadoDevclubFullStack-Dalio-1.jpg" width="250px">
 </div>
 
+# GitHub Stats
+
 <div align="center">
-
-# GitHub Stats:
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DalioSY&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=fff&bg_color=ffffff00" alt="Dalio GitHub stats"/> 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalioSY&layout=compact&hide_border=true&title_color=58A6FF&text_color=fff&bg_color=ffffff00" alt="Dalio Most Used Languages " />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=DalioSY&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&dates=fff&background=ffffff00&sideLabels=58A6FF&sideNums=fff&currStreakNum=fff&ring=58A6FF&fire=ff0000&currStreakLabel=1F6FEB" alt="GitHub Streak" />
 </div>
 
-<div align="center" >
+# Conecte-se comigo
 
-# Entre em contato:
+> Linkedin: <a href="https://www.linkedin.com/in/dalio-s-yamada/" target="_blank">https://www.linkedin.com/in/dalio-s-yamada </a>
 
-<a href="mailto:dalioyamada@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/dalio-s-yamada/"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
+> Portifólio: <a href="https://portfolio-dalio.vercel.app/" target="_blank">https://portfolio-dalio.vercel.app/ </a>
 
-<a href="https://daliosy.github.io/link-tree/">Link Tree</a>
-</div>
+
+# Visitors Count
 
 <div align="center">
-
-## Visitors Count:
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDalioSY&s=30&c=1f6feb&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=footer"/>
