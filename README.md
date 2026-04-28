@@ -62,19 +62,20 @@ Essas experiências fortaleceram habilidades como:
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma"/>
 
 ### Editores de Código
-
+<div style="display: flex; flex-direction: row; justify-content: start; align-items: center; gap: 10px">
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/antigravity-color.png"height="48px" alt="Antigravity"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/cursor.webp" height="48px" alt="Cursor"/>
+</div>
 
 ### Inteligência Artificial no Desenvolvimento
-
+<div style="display: flex; flex-direction: row; justify-content: start; align-items: center; gap: 10px">
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/githubcopilot.webp" height="48px" alt="GitHub Copilot"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" height="48px" alt="OpenAI Codex"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" height="48px" alt="Google Gemini"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" height="48px" alt="Claude"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/windsurf.webp" height="48px" alt="Windsurf"/>
-
+</div>
 <br/>
 
 # Certificados
