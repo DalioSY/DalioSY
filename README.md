@@ -18,9 +18,8 @@ Essa trajetória me ajudou a desenvolver visão de negócio, responsabilidade, c
 
 Atualmente participo do desenvolvimento de aplicações web e mobile utilizando tecnologias modernas como **Next.js, React.js, Expo, Laravel, PostgreSQL e Firebase**.
 
-<div style="display: flex; flex-direction: column; width: 100%;">
-<div style=" display: flex; justify-content: space-between; align-items: stretch; gap: 20px; width: 100%;">
-<div style=" width: 50%; border-radius: 10px; overflow: hidden; display: flex;">
+<div style="width: 100%; display: flex; flex-direction: row; justify-content: between; align-items: center; ">
+<div style=" width: 50%; ">
 Tenho experiência no desenvolvimento de:<br/>
 🚀 Landing pages modernas <br/>
 🖥️ Sistemas administrativos <br/>
@@ -32,7 +31,7 @@ Tenho experiência no desenvolvimento de:<br/>
 📲 Aplicativos mobile <br/>
 </div>
 
-<div style=" width: 50%; border-radius: 10px; overflow: hidden; display: flex;">
+<div style=" width: 50%;">
 Essas experiências fortaleceram habilidades como:<br/>
 ✔️ Resolução de problemas  <br/>
 ✔️ Organização  <br/>
@@ -41,10 +40,10 @@ Essas experiências fortaleceram habilidades como:<br/>
 ✔️ Comunicação  <br/>
 ✔️ Persistência  <br/>
 ✔️ Adaptabilidade  <br/>
-✔️ Proatividade<br/>
-        </div>
-    </div>
+✔️ Proatividade <br/>
 </div>
+</div>
+
 <br/>
 
 > 💡 Sempre buscando evoluir como desenvolvedor e como pessoa, criando soluções que realmente façam diferença.
