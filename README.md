@@ -43,6 +43,8 @@ Essas experiências fortaleceram habilidades como:<br/>
 ✔️ Proatividade <br/>
 </div>
 </div>
+</div>
+
 <br/>
 
 > 💡 Sempre buscando evoluir como desenvolvedor e como pessoa, criando soluções que realmente façam diferença.
