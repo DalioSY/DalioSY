@@ -30,7 +30,7 @@ Tenho experiência no desenvolvimento de:<br/>
 💻 Plataformas web <br/>
 📲 Aplicativos mobile <br/>
 </div>
-
+<br/>
 <div style=" width: 50%;">
 Essas experiências fortaleceram habilidades como:<br/>
 ✔️ Resolução de problemas  <br/>
@@ -43,7 +43,6 @@ Essas experiências fortaleceram habilidades como:<br/>
 ✔️ Proatividade <br/>
 </div>
 </div>
-
 <br/>
 
 > 💡 Sempre buscando evoluir como desenvolvedor e como pessoa, criando soluções que realmente façam diferença.
