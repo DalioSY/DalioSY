@@ -1,13 +1,13 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&wsection=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Dalio+Shindi+Yamada;💻+Desenvolvedor+Full+Stack;✨+Criando+interfaces+modernas;🚀+performáticas+e+responsivas;⚡+Transformando+ideias+em;💻+soluções+digitais+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Dalio+S.+Yamada;💻+Desenvolvedor+Full+Stack;✨+Criando+interfaces+modernas;🚀+performáticas+e+responsivas;⚡+Transformando+ideias+em;💻+soluções+digitais+reais)](https://git.io/typing-svg)
 
 </div>
 
 # Sobre mim
 
-Olá, sou **Dalio Shindi Yamada** 👋
+Olá, sou **Dalio S. Yamada** 👋
 
 Sou um **Desenvolvedor Full Stack** de soluções digitais. Trabalho criando sistemas, sites e aplicativos utilizando tecnologias como **JavaScript, TypeScript, PHP, React.js, Next.js e Node.js**.
 
